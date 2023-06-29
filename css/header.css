@@ -1,0 +1,27 @@
+.header-main{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    flex-grow: 2;
+    font-family: "nyt-karnakcondensed";
+    font-weight: 700;
+    font-size: 28px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+    position: relative;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px;
+    border : 1px solid  rgb(218,221,224);
+    margin-bottom: 100px;
+    
+}
+
